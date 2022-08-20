@@ -1,3 +1,3 @@
 # learngit
 
-This is for learning only
+This is for learning only.
